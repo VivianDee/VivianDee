@@ -8,7 +8,7 @@ I have always been passionate about technology, and for the past three years, I 
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [vdagbue@gmail.com](mailto:vdagbue@gmail.com)
-* 🧠  I'm learning PHP, JavScript & Python
+* 🧠  I am an avid learner with a strong passion for acquiring new knowledge and skills
 
 ### Skills
 
