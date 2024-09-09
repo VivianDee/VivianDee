@@ -4,7 +4,7 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 Web Developent and Data Science
 -------------------------------
 
-I have always been passionate about technology, and for the past three years, I have channeled that passion into a rewarding career as a backend developer. During this time I gained hands-on experience working with various companies, where I developed robust applications, contributed to team projects, and continually expanded my skill set. My focus has been on mastering advanced programming languages and frameworks, particularly PHP (Laravel), Python (Django & Flask), JavaScript, and WordPress development.
+I have always been passionate about technology, and for the past three years I have channeled that passion into a rewarding career as a backend developer. During this time I gained hands-on experience working with various companies where I developed robust applications, contributed to team projects, and continually expanded my skill set. My focus has been on mastering advanced programming languages and frameworks, particularly PHP (Laravel), Python (Django & Flask), JavaScript, and WordPress development.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [vdagbue@gmail.com](mailto:vdagbue@gmail.com)
