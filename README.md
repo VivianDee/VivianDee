@@ -4,7 +4,7 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 Web Developent and Data Science
 -------------------------------
 
-I've always been passionate about technology and about two years ago I decided to make it my career focus. Since then I've been learning programming languages and I have also taken courses such as freeCodeCamp's JavaScript Algorithms and Data Structures course and programs such as ALX Full Stack Software Engineering.
+I have always had a passion for technology, and over the past year, I have taken significant steps to turn that passion into a fulfilling career as a backend developer. My journey has involved gaining hands-on experience in various companies, where I have honed my skills and deepened my understanding of web development.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [vdagbue@gmail.com](mailto:vdagbue@gmail.com)
